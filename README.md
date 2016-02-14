@@ -9,4 +9,4 @@ This bot will search a given sub-reddit of your choice and will send a polite me
 to correct their transgression. 
 
 If you would like to find out more about how I made this click [here.]( https://www.youtube.com/watch?v=a5BnJpTQIMM)
-and here: [PRAW: The Python Reddit Api Wrapper](https://praw.readthedocs.org/en/stable/)
+and [here: PRAW: The Python Reddit Api Wrapper](https://praw.readthedocs.org/en/stable/)
