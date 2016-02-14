@@ -4,7 +4,7 @@ import time
 r = praw.Reddit(user_agent = "TutorialBot by ripDig /u/Def_Correct")
 # r.login with no arguments will prompt the user to login
 print("Logging in...")
-r.login("misc_bot", "989898")
+r.login()
 
 words_to_match = ["definately", "definatly", "definantly", "definetly", "definently", "defiantly"]
 cache = []
